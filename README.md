@@ -1,2 +1,2 @@
 # git-intro
-learn git
+learn git.
